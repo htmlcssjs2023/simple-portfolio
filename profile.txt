@@ -1,0 +1,16 @@
+About Me :
+I like to call myself, a passionate computer science  and Full Stack Developer .
+I made lot of different kind of professional temp architech and designs. My frist priority is analysis new system and made of design using different technologies such JavaScript , Vue Js , Sass, CSS3, HTML5. second on  presentation of the product clearly.
+Name : Md Abdul Halim
+Address: Bocila / West Dhanmodin / Mohammadpur / Dhaka
+Email: programmingwithhalim@gmail.com
+Phone No: 0204840835
+Website: www.thezoomit.com
+
+
+<strong> Training of Asp.net Developmnet </strong>
+02/04/2018 - 15/08/2018 <br>
+Basis Institude of Techonogy Management ,
+Karwan Bazar , BDBL Building, Dhaka
+
+
